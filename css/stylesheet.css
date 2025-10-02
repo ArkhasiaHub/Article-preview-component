@@ -49,6 +49,7 @@ body {
     height: 100%;
     border-top-right-radius: 12px;
     border-top-left-radius: 12px;
+    object-fit: cover;
 }
 
 /*Classic footer*/
